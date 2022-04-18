@@ -1,1 +1,1 @@
-# rumor_detection_tree_transformer
+This is about rumor detection with tree transformer
